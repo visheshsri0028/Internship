@@ -8,12 +8,12 @@ function App() {
   return (
     <div className="App">
       <div className="header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={logo} className="App-logo" alt="Description of the Image" />
       </div>
       <div>
         <div className="content">
           <div className="pic-content">
-            <img src={Photo} className="award" alt="Photo" />
+            <img src={Photo} className="award" alt="Description of the Image" />
           </div>
           <div className="sub-content">
             <p>
@@ -35,7 +35,7 @@ function App() {
                 smart pumps with IoT enabled control panel.
               </li>
             </table>
-            <img src={Picture} alt="Picture" className="award-receive" />
+            <img src={Picture} alt="Description of the Image" className="award-receive" />
             <p>
               Government of India has awarded the{" "}
               <b>"National Energy Conservation Award 2018"</b>. Mr. G. Selvaraj,
@@ -51,7 +51,7 @@ function App() {
             RESULTING IN A CUMULATIVE SAVING OF MORE THAN 9,000 MILLION UNITS OF
             POWER FOR THE NATION.
           </p>
-          <img src={items} alt="item" className="item"/>
+          <img src={items} alt="Description of the Image" className="item"/>
           <p className="description">
           Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables - Solar Systems - Motors
           </p>
